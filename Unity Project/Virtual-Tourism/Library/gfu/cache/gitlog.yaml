@@ -1,0 +1,304 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: c20998f7383066a4aabecce000394abf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  log:
+  - CommitID: 94f57aa28e460151ac48c16fa4f3a186cde834d7
+    MergeA: 
+    MergeB: 
+    AuthorName: MoritzT1
+    AuthorEmail: 31615755+MoritzT1@users.noreply.github.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: Delete Virtual-Tourism.sln
+    Description: Delete Virtual-Tourism.sln
+    TimeString: 9/6/2017 10:23:24 AM +09:30
+    CommitTimeString: 9/6/2017 10:23:24 AM +09:30
+    Changes:
+    - Path: Unity Project\Virtual-Tourism.sln
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\Unity Project\Virtual-Tourism.sln
+      ProjectPath: ..\Unity Project\Virtual-Tourism.sln
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+  - CommitID: e6139d2e1fa9c82d9dbf14970d1bd14aa9930dcf
+    MergeA: 
+    MergeB: 
+    AuthorName: MoritzT1
+    AuthorEmail: 31615755+MoritzT1@users.noreply.github.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: Add files via upload
+    Description: Add files via upload
+    TimeString: 9/6/2017 10:22:59 AM +09:30
+    CommitTimeString: 9/6/2017 10:22:59 AM +09:30
+    Changes:
+    - Path: Unity Project\Virtual-Tourism.sln
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\Unity Project\Virtual-Tourism.sln
+      ProjectPath: ..\Unity Project\Virtual-Tourism.sln
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+  - CommitID: 7fe81e8bee0c4e4ab68d6294d803e636bb327324
+    MergeA: 
+    MergeB: 
+    AuthorName: sciencetechrocks
+    AuthorEmail: 31640985+sciencetechrocks@users.noreply.github.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: Add files via upload
+    Description: "Add files via upload\r\n\r\nThis is the soundtrack for the whole
+      game. We need to credit him though: Music: https://www.bensound.com"
+    TimeString: 9/6/2017 10:13:16 AM +09:30
+    CommitTimeString: 9/6/2017 10:13:16 AM +09:30
+    Changes:
+    - Path: Music\bensound-deepblue.mp3
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\Music\bensound-deepblue.mp3
+      ProjectPath: ..\Music\bensound-deepblue.mp3
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Music\bensound-november.mp3
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\Music\bensound-november.mp3
+      ProjectPath: ..\Music\bensound-november.mp3
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+  - CommitID: b0d4bb9c76a2ab3f11112c5e15fc31175fc0a6f9
+    MergeA: 
+    MergeB: 
+    AuthorName: sciencetechrocks
+    AuthorEmail: 31640985+sciencetechrocks@users.noreply.github.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: Add files via upload
+    Description: Add files via upload
+    TimeString: 9/6/2017 9:50:52 AM +09:30
+    CommitTimeString: 9/6/2017 9:50:52 AM +09:30
+    Changes:
+    - Path: Music\footsteps_on_grass.flac
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\Music\footsteps_on_grass.flac
+      ProjectPath: ..\Music\footsteps_on_grass.flac
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+  - CommitID: 342d529532d7d9fff411776f39d823af3280e322
+    MergeA: 
+    MergeB: 
+    AuthorName: sciencetechrocks
+    AuthorEmail: 31640985+sciencetechrocks@users.noreply.github.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: Add files via upload
+    Description: "Add files via upload\r\n\r\nThese are the footsteps sound for the
+      character."
+    TimeString: 9/6/2017 9:49:47 AM +09:30
+    CommitTimeString: 9/6/2017 9:49:47 AM +09:30
+    Changes:
+    - Path: Music\footsteps_on_gravel.flac
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\Music\footsteps_on_gravel.flac
+      ProjectPath: ..\Music\footsteps_on_gravel.flac
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+  - CommitID: 73ed8b43b2ada848db279fe15de54dec1b3da6de
+    MergeA: 
+    MergeB: 
+    AuthorName: Sonel Prabhakaran
+    AuthorEmail: sonelprabhakaran@outlook.com
+    CommitEmail: sonelprabhakaran@outlook.com
+    CommitName: Sonel Prabhakaran
+    Summary: Re-organisation1
+    Description: Re-organisation1
+    TimeString: 9/5/2017 4:37:38 PM +09:30
+    CommitTimeString: 9/5/2017 4:37:38 PM +09:30
+    Changes:
+    - Path: 3D objects\Test.txt
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\3D objects\Test.txt
+      ProjectPath: ..\3D objects\Test.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+  - CommitID: 87b2c3b905731ad3b0760b4c11b77b150837b807
+    MergeA: 
+    MergeB: 
+    AuthorName: Sonel Prabhakaran
+    AuthorEmail: sonelprabhakaran@outlook.com
+    CommitEmail: sonelprabhakaran@outlook.com
+    CommitName: Sonel Prabhakaran
+    Summary: Re-organisation
+    Description: Re-organisation
+    TimeString: 9/5/2017 4:36:46 PM +09:30
+    CommitTimeString: 9/5/2017 4:36:46 PM +09:30
+    Changes:
+    - Path: 3D objects\Test.txt
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\3D objects\Test.txt
+      ProjectPath: ..\3D objects\Test.txt
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+  - CommitID: 3c78cd91911de67843416b8c7ac9e2b374ec8b72
+    MergeA: 
+    MergeB: 
+    AuthorName: Sonel Prabhakaran
+    AuthorEmail: sonelprabhakaran@outlook.com
+    CommitEmail: sonelprabhakaran@outlook.com
+    CommitName: Sonel Prabhakaran
+    Summary: Re-organisation
+    Description: Re-organisation
+    TimeString: 9/5/2017 4:35:41 PM +09:30
+    CommitTimeString: 9/5/2017 4:35:41 PM +09:30
+    Changes:
+    - Path: 3D objects\Test.txt
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\3D objects\Test.txt
+      ProjectPath: ..\3D objects\Test.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Story\Test.txt
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\Story\Test.txt
+      ProjectPath: ..\Story\Test.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Unity Project\Test.txt
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\Unity Project\Test.txt
+      ProjectPath: ..\Unity Project\Test.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+  - CommitID: 402c1da7d831317909eec0c6d651434d6cdec151
+    MergeA: 
+    MergeB: 
+    AuthorName: Sonel Prabhakaran
+    AuthorEmail: sonelprabhakaran@outlook.com
+    CommitEmail: sonelprabhakaran@outlook.com
+    CommitName: Sonel Prabhakaran
+    Summary: Organisation
+    Description: Organisation
+    TimeString: 9/5/2017 4:29:54 PM +09:30
+    CommitTimeString: 9/5/2017 4:29:54 PM +09:30
+    Changes:
+    - Path: Music\background_music_birdschirping.flac
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\Music\background_music_birdschirping.flac
+      ProjectPath: ..\Music\background_music_birdschirping.flac
+      OriginalPath: background_music_birdschirping.flac
+      Status: 6
+      Staged: 0
+  - CommitID: 79fb9695f3ee654f0a2eed17ff4c101b61214711
+    MergeA: 
+    MergeB: 
+    AuthorName: sciencetechrocks
+    AuthorEmail: 31640985+sciencetechrocks@users.noreply.github.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: background_music_birdschirping
+    Description: "background_music_birdschirping\r\n\r\nfor background music of nature"
+    TimeString: 9/5/2017 3:27:45 PM +09:30
+    CommitTimeString: 9/5/2017 3:27:45 PM +09:30
+    Changes:
+    - Path: background_music_birdschirping.flac
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\background_music_birdschirping.flac
+      ProjectPath: ..\background_music_birdschirping.flac
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+  - CommitID: eb8de5c340103c3923fd32e7a2849726dd6c9db2
+    MergeA: 
+    MergeB: 
+    AuthorName: MoritzT1
+    AuthorEmail: 31615755+MoritzT1@users.noreply.github.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: deleted test files
+    Description: deleted test files
+    TimeString: 9/5/2017 3:21:12 PM +09:30
+    CommitTimeString: 9/5/2017 3:21:12 PM +09:30
+    Changes:
+    - Path: tes.txt
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\tes.txt
+      ProjectPath: ..\tes.txt
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+  - CommitID: d32f4c510a16b73da73fa7b271cccfe071ef206a
+    MergeA: 
+    MergeB: 
+    AuthorName: MoritzT1
+    AuthorEmail: 31615755+MoritzT1@users.noreply.github.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: Uploaded test file
+    Description: Uploaded test file
+    TimeString: 9/5/2017 3:16:52 PM +09:30
+    CommitTimeString: 9/5/2017 3:16:52 PM +09:30
+    Changes:
+    - Path: tes.txt
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\tes.txt
+      ProjectPath: ..\tes.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+  - CommitID: 24edf87222b44278e7fd3ec6969286ed9a66dcc4
+    MergeA: 
+    MergeB: 
+    AuthorName: MoritzT1
+    AuthorEmail: 31615755+MoritzT1@users.noreply.github.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: Create README.md
+    Description: Create README.md
+    TimeString: 9/5/2017 3:11:30 PM +09:30
+    CommitTimeString: 9/5/2017 3:11:30 PM +09:30
+    Changes:
+    - Path: README.md
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\README.md
+      ProjectPath: ..\README.md
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+  - CommitID: e052970156d78dc941f0f2f68a1cca2ea5b0a8fe
+    MergeA: 
+    MergeB: 
+    AuthorName: Sonel Prabhakaran
+    AuthorEmail: sonelprabhakaran@outlook.com
+    CommitEmail: sonelprabhakaran@outlook.com
+    CommitName: Sonel Prabhakaran
+    Summary: Story
+    Description: Story
+    TimeString: 9/5/2017 2:31:39 PM +09:30
+    CommitTimeString: 9/5/2017 2:31:39 PM +09:30
+    Changes:
+    - Path: Storyline\Storyline.txt
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\Storyline\Storyline.txt
+      ProjectPath: ..\Storyline\Storyline.txt
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+  - CommitID: 1690cb6de89c6fedb3fe90d5400f83e770021b91
+    MergeA: 
+    MergeB: 
+    AuthorName: Sonel Prabhakaran
+    AuthorEmail: sonelprabhakaran@outlook.com
+    CommitEmail: sonelprabhakaran@outlook.com
+    CommitName: Sonel Prabhakaran
+    Summary: Storyline Start
+    Description: Storyline Start
+    TimeString: 9/5/2017 2:24:46 PM +09:30
+    CommitTimeString: 9/5/2017 2:24:46 PM +09:30
+    Changes:
+    - Path: Storyline\Storyline.txt
+      FullPath: D:\Users\Gamer\ISF-ASMS\ISF-ASMS\Storyline\Storyline.txt
+      ProjectPath: ..\Storyline\Storyline.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
